@@ -1,5 +1,5 @@
 # myprofil
-<h1 align="center">Bonjour 👋, Moi c'est'm Tchimou Junior</h1>
+<h1 align="center">Bonjour 👋, Moi c'est Tchimou Junior Medard Vianney</h1>
 <h3 align="center">Informaticien et développeur de logiciels destinés aux entreprises et à la commercialisation. J’ai acquis de multiples compétences tant sur ma formation pédagogique que mon expérience personnelle du domaine.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barythoms&label=Profile%20views&color=0e75b6&style=flat" alt="barythoms" /> </p>
